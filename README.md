@@ -2,7 +2,7 @@
 
 Which vendor charges hold a stable enough unit rate to be driven from master data, and which do not.
 
-Supporting code for *Checking airline invoices in Dynamics 365 F&O*, published by CodeCore Dynamics.
+Supporting code for *Checking airline invoices in Dynamics 365 F&O*, published by CodeCore Dynamics LLC.
 
 ---
 
