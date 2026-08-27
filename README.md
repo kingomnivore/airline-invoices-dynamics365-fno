@@ -1,4 +1,4 @@
-# Airline invoice rate variance
+# Checking airline invoices in Dynamics 365 F&O
 
 Which vendor charges hold a stable enough unit rate to be driven from master data, and which do not.
 
